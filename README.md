@@ -43,7 +43,7 @@ Bem-vindo ao meu projeto de **Menu de Operações Matemáticas**! Este é um apl
 - 5. Abra um pull request.
  
 ## Licença
-- Este projeto está sob a nenhuma licença.
+- Este projeto está sob nenhuma licença.
 
 ## Contato
 - Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
