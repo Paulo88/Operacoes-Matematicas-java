@@ -43,12 +43,12 @@ Bem-vindo ao meu projeto de **Menu de Operações Matemáticas**! Este é um apl
 - 5. Abra um pull request.
  
 ## Licença
-- Este projeto está licenciado sob a nenhuma licença.
+- Este projeto está sob a nenhuma licença.
 
 ## Contato
 - Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
 
--Nome: Paulo Amorim
+- Nome: Paulo Amorim
 - LinkedIn: [Paulo Amorim](https://www.linkedin.com/in/paulo-amorim88/)
 
 - Agradeço por conferir meu projeto! Espero que você o ache útil e educativo.
